@@ -1,4 +1,4 @@
-### Bem Vindo, meu nome é Gabriel Bastos 👋
+### <h1 align="center"> Bem Vindo, meu nome é Gabriel Bastos 👋</h1>
 
 
 
