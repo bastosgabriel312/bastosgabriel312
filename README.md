@@ -1,16 +1,20 @@
-### Hi there 👋
+### Bem Vindo, meu nome é Gabriel Bastos 👋
 
-<!--
-**bastosgabriel312/bastosgabriel312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 Atualmente trabalho em projetos pessoais para desenvolvimento profissional, além de trabalhar com suporte.<br>
-- 🌱 Estou sempre em constante aprendizado, acredito que seja importante sempre se atualizar. Algumas linguagens/Frameworks que estou em um nível intermediário a avançado são Python, Javascript, SQL, HTML, CSS, Bootstrap, Django, Flask.
+- 🌱 Estou sempre em constante aprendizado, acredito que seja importante sempre se atualizar. Algumas linguagens/Frameworks que estou em um nível intermediário a avançado são Python, Javascript, SQL, HTML, CSS, Bootstrap, Django, Flask.<br>
 
-- 📫 Entre em contato em:
-  <img src="data:image/png;base64,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" href="linkedin.com/in/bastosgabriel312" height="50" width="300"/>
-  
-  <img src="https://logospng.org/download/gmail/logo-gmail-2048.png" href="mailto:bastosgabriel312@gmail.com" height="50" width="300" />
+- 📫 Entre em contato em:<br>
+        <a href="www.linkedin.com/in/bastosgabriel312"> LinkedIn</a> <br> 
+        <a href="mailto:bastosgabriel312@gmail.com">E-mail</a><br>
+        <a href="https://wa.me/11991677867"> Whatsapp </a> <br>
 
-- ⚡ Saiba mais sobre minha história e objetivos abaixo:
+- ⚡ Saiba mais sobre minha história e objetivos abaixo:<br>
+
+    <strong>M</strong>eu nome é Gabriel Gonçalves Corvelo Bastos, tenho 19 anos e sou natural de Mauá - SP. Desde criança tenho um grande interesse por tecnologia, especificamente Tecnologia da Informação. Durante 8 meses estudei a operação de computadores na instituição de ensino SENAI/FIRJAN - RJ. Após isso me especializei em manutenção de computadores e ferramentas de escritório, com cursos de curto período na instituição FAETEC também no Rio de Janeiro.     Anteriormente exercia a função de estoquista de auto-peças na empresa Lagomar Autopeças Ltda, uma função um pouco distinta do meu interesse profissional. 
+    Recentemente atuo como Técnico de Help Desk na empresa Number One Ltda e curso Sistemas de Informação na Faculdade IMPACTA de tecnologia. Minhas atribuições e competências são preenchimento de KPI's, cumprimento de SLA , escalonamento, manutenção e observação de sistemas, conhecimento da metodologia ITIL e Workflows .
+     Por mais que tenha ocupado cargos diferentes do meu interesse profissional, tenho capacidade e vontade de aprender, energia, criatividade e disposição para concluir tarefas atribuídas a mim, consequentemente todo cargo que é destinado a mim é desempenhado com maestria e competência.
+
+
     
