@@ -7,7 +7,7 @@
 
 - 📫 Entre em contato em:<br>
 
-  <img src="https://github.com/bastosgabriel312/images/blob/master/linkedin.png?raw=true" heigth=125 width=303> <img src="https://github.com/bastosgabriel312/images/blob/master/Gmail.png?raw=true" heigth=125 width=305> <img src="https://github.com/bastosgabriel312/images/blob/master/whatsapp.jpg?raw=true" heigth=125 width=303> 
+  <img src="https://github.com/bastosgabriel312/images/blob/master/linkedin.png?raw=true" heigth=125 width=300 href="https://www.linkedin.com/in/bastosgabriel312"> <img src="https://github.com/bastosgabriel312/images/blob/master/Gmail.png?raw=true" heigth=125 width=300 href="mailto:bastosgabriel312@gmail.com"> <img src="https://github.com/bastosgabriel312/images/blob/master/whatsapp.jpg?raw=true" heigth=125 width=300 href="https://wa.me/55011991677867"> 
 
 <!--
         <a href="https://www.linkedin.com/in/bastosgabriel312"> LinkedIn</a> <br> 
