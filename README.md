@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalho em projetos pessoais para desenvolvimento profissional, além de trabalhar com suporte.<br>
-- 🌱 Estou sempre em constante aprendizado, acredito que seja importante me atualizar. Algumas linguagens/Frameworks que estou em um nível iniciante a intermediário são Python, Javascript, SQL, HTML, CSS, Bootstrap, Django, Flask.<br>
+- 🌱 Estou sempre em constante aprendizado, acredito que seja importante me atualizar. Algumas linguagens/Frameworks que estou em um nível iniciante a intermediário são Python, Java, Javascript, SQL, HTML, CSS, Bootstrap, Django, Flask.<br>
 <br>
 <br>
 
