@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalho em projetos pessoais para desenvolvimento profissional, além de trabalhar com suporte.<br>
-- 🌱 Estou sempre em constante aprendizado, acredito que seja importante me atualizar. Algumas linguagens/Frameworks que estou em um nível iniciante a intermediário são Python, Java, Spring Data, Spring MVC, Javascript, SQL, HTML, CSS, Bootstrap, Django, Flask.<br>
+- 🌱 Estou sempre em constante aprendizado, acredito que seja importante me atualizar. Algumas linguagens/Frameworks que estou em um nível iniciante a intermediário são Python, Java, Spring Framework, Javascript, SQL, MongoDB, HTML, CSS, Bootstrap, Django, Flask.<br>
 <br>
 <br>
 
@@ -11,18 +11,6 @@
   <a href="https://github.com/bastosgabriel312">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bastosgabriel312&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosgabriel312&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg ">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="center" alt="sqlalchemy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg">
-  <img align="center" alt="flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
   
   ##
