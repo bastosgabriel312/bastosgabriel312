@@ -1,17 +1,18 @@
-### <h1 align="center"> Bem Vindo, meu nome é Gabriel Bastos 👋</h1>
+### <h1 align="center"> Bem Vindo, meu nome é Gabriel Bastos</h1>
 
 
 
-- 🔭 Atualmente trabalho em projetos pessoais para desenvolvimento profissional, além de trabalhar com suporte.<br>
-- 🌱 Estou sempre em constante aprendizado, acredito que seja importante me atualizar. Algumas linguagens/Frameworks que estou em um nível iniciante a intermediário são Python, Java, Spring Framework, Javascript, SQL, MongoDB, HTML, CSS, Bootstrap, Django, Flask.<br>
-<br>
+-  Atualmente trabalho como Desenvolvedor Fullstack, além de trabalhar com projetos pessoais para desenvolvimento profissional.<br>
+-  Algumas linguagens/Frameworks que estou em um nível intermediário a avançado são Python, Java, Spring Framework, Typescript, Javascript, SQL, MongoDB, HTML, CSS, Bootstrap, Angular, Django, Flask.<br>
 <br>
 
 <div>
+ 
   <a href="https://github.com/bastosgabriel312">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=bastosgabriel312&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosgabriel312&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosgabriel312&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+  </div>
   
   ##
 <div> 
