@@ -6,14 +6,6 @@
 -  Algumas linguagens/Frameworks que estou em um nível intermediário a avançado são Python, Java, Spring Framework, Typescript, Javascript, SQL, MongoDB, HTML, CSS, Bootstrap, Angular, Django, Flask.<br>
 <br>
 
-<div>
- 
-  <a href="https://github.com/bastosgabriel312">
-
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosgabriel312&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-  </div>
-  
   ##
 <div> 
   <a href = "https://wa.me/55011991677867"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
